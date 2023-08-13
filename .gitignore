@@ -6,7 +6,7 @@
 *.fig
 /node_modules
 /README.md
-/style.css
+style.css
 
 # Avoid accidental XD upload if you convert the design file
 ###############################################
