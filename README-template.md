@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KandepiBhavani23/QR-Code_Component)
+- Solution URL: https://github.com/KandepiBhavani23/QR-Code_Component
 - Live Site URL: https://component-qr-codes.netlify.app/
 
 ## My process
@@ -37,11 +37,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- SCSS/SASS - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
